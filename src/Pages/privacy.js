@@ -38,7 +38,7 @@ function Privacy() {
             <p>We implement a variety of security measures to maintain the safety of your personal information. However, please be aware that no method of transmission over the Internet or method of electronic storage is 100% secure, and we cannot guarantee its absolute security.</p>
 
             <h2>6. Your Data Rights</h2>
-            <p>Depending on your location, you may have certain rights regarding your personal data, including the right to access, correct, or delete your personal information. To exercise these rights, please contact us at [Your Contact Information].</p>
+            <p>Depending on your location, you may have certain rights regarding your personal data, including the right to access, correct, or delete your personal information. To exercise these rights, please contact us   .</p>
 
             <h2>7. Changes to This Privacy Policy</h2>
             <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.</p>
@@ -46,10 +46,7 @@ function Privacy() {
             <h2>8. Contact Us</h2>
             <p>If you have any questions about this Privacy Policy, please contact us at:</p>
             <address>
-                [Your Company Name]<br />
-                [Your Contact Information]<br />
-                [Your Email Address]<br />
-                [Your Phone Number]
+                gautamjaiswal522@gmail.com<br />
             </address>
 
             <h2>9. Consent</h2>

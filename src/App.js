@@ -6,11 +6,11 @@ import { Router, Routes, Route, Navigate } from "react-router-dom";
 function App() {
   return (
     <div className="App">
-    <div>
+    {/* <div> */}
     <Routes>
       <Route exact path="/privacy" element={<Privacy/>}/>
     </Routes>
-    </div>
+    {/* </div> */}
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
