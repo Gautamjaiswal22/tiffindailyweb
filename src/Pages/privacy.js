@@ -2,7 +2,7 @@ import React from 'react';
 
 function Privacy() {
     return (
-        <div style={{ padding: '20px' }}>
+        <div style={{ padding: '20px', textAlign:'left' }}>
             <h1>Privacy Policy</h1>
             {/* <p><strong>Effective Date: [Insert Date]</strong></p> */}
 
